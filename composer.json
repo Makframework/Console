@@ -1,0 +1,20 @@
+{
+    "name": "makframework/console",
+    "description": "Makframework Console",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Junior Ochei Ruiz",
+            "email": "mak.hmc@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "Makframework\\Components\\Console\\": ""
+      }
+    }
+
+}
